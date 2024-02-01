@@ -1,0 +1,14 @@
+work_dir/
+*.egg-info
+__pycache__
+.ipynb_checkpoints/
+src/
+.vscode/
+datasets
+scratch/
+slurm_log/
+diff_prior/
+sbatch_run.sh
+inpaint_work_dir
+repaint_work_dir
+work_dir_depr
